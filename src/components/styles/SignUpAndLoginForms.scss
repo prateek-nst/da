@@ -1,0 +1,87 @@
+.MuiFormHelperText-sizeSmall{
+    margin-left: 0 !important;
+}
+.imgContainer {
+    height: 100%;
+}
+
+.MifixContainer {
+    margin-bottom: 10rem;
+    margin-right: 25rem;
+    display: contents;
+}
+
+.labelCls {
+    margin-bottom: 0.5rem !important;
+    margin-top: 1.5rem !important;
+    font-size: 12px !important;
+}
+
+.accountCls{
+    margin-top: -1.5rem;
+    margin-left: 17rem;
+    font-size: small;
+    color: #8794C2;
+}
+
+.needAccountCls{
+    margin-top: -1.5rem;
+    margin-left: 13rem;
+    font-size: small;
+    color: #8794C2;
+}
+
+.keyIconCls{
+    color: '#8794C2';
+    font-size: 15px !important;
+    transform: rotate(130deg);
+    transform-origin: center;
+    vertical-align: middle;
+}
+
+.forgotPwdCls{
+    font-size: 12px !important;
+    margin: auto !important;
+    cursor: pointer !important;
+    margin-left: 6.5rem !important;
+}
+.passwordLinkCls{
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.passwordResetEmail {
+    margin-right: auto !important;
+    color: var(--Main-text, #1B1B1B);
+    font-family: Poppins;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.forgotPwdCls{
+    color: #151515;
+    font-family: Poppins;
+    font-size: 1.78569rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.pwdLinkMsgCls{
+    color: var(--Sub-text-2, #8794C2);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.pwdRulesCls{
+    color: var(--Sub-text-2, #8794C2);
+    font-family: Poppins !important;
+    font-size: 0.6rem !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    line-height: normal !important;
+}
